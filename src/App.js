@@ -1,4 +1,20 @@
-import logo from './logo.svg';
+import React from 'react';
+
+class App extends React.Component
+{
+  render()
+  {
+    return
+    (
+      <>
+      <h1>HELLO WORLD</h1>
+      </>
+    );
+  }
+}
+export default App;
+
+/*import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -23,3 +39,4 @@ function App() {
 }
 
 export default App;
+*/
